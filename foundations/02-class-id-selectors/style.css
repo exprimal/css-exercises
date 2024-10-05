@@ -1,0 +1,19 @@
+.first {
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, "DejaVu Sans", Tahoma, sans-serif;
+}
+
+#identification {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.middle {
+    font-size: 24px;
+}
+
+#identifiction4 {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
